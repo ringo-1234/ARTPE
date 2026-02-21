@@ -4,7 +4,7 @@
 
 [Minecraft](https://www.minecraft.net/ja-jp) | [forge1.12.2](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
 
-# 最新版のダウンロードは[こちら](https://github.com/ringo-1234/ARSE/releases/latest) から
+# 最新版のダウンロードは[こちら](https://github.com/ringo-1234/ARTPE/releases/latest) から
 
 ## この Mod はなにか
 
