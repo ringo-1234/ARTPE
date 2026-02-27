@@ -1,3 +1,5 @@
+# このプロジェクトはAppleExtendedに統合されました！！以後、バージョン1.7.10のリリースは未定です。
+
 # ARTPE
 
 [English](README.en.md) | [日本語](README.md)
